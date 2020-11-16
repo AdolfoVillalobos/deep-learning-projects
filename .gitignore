@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+*.vocab
+.Ds_Store
+logs/
+*.txt
+*.feat
+*.tsv
+*.tar.gz
+*.pb
+*.json.gz
